@@ -1,2 +1,2 @@
-# riscv-list
-list famous riscv resource and project
+# RISCV-LIST
+List the famous riscv resource and projects.
